@@ -21,7 +21,6 @@
 	<div class="flex flex-wrap underline max-w-screen-xl mx-auto">
 		<nav class="list-none flex flex-wrap grow justify-center items-center md:justify-start gap-8 md:text-lg font-semibold py-4 px-8">
 			<li><a href="/about">About</a></li>
-			<li><a href="/events">Events</a></li>
 			<li><a href="/repertoire">Repertoire</a></li>
 			<li><a href="/contact">Contact</a></li>
 		</nav>

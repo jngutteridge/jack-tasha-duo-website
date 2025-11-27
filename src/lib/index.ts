@@ -3,18 +3,7 @@ interface Occurrence {
   week: string;
 }
 
-export const eventsLinks = [
-  {
-    title: 'Grand Union Leicester open mic',
-    href: '/events/grand-union-open-mic',
-    imgSrc: 'jack-tasha-grand-union.jpg',
-  },
-  {
-    title: 'Baton Rouge at Queens open mic',
-    href: '/events/baton-rouge-queens-open-mic',
-    imgSrc: 'jack-tasha-baton-rouge.jpg',
-  },
-];
+export const eventsLinks = [];
 
 export function getOccurrencesView(occurrences: Occurrence[]) {
   const occurrencesView: string[] = [];
